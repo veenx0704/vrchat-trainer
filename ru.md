@@ -14,10 +14,60 @@
 
 ## Опции
 
-- Download the official MoggyDay VRChat trainer +54: fly
-- teleport
-- avatars
-- own world in TrainerHub. The option list matches the launcher pack.
+- Fly Mode (Own World)
+- Super Speed
+- No Clip
+- Super Jump
+- No Fall
+- Teleport
+- Save Position
+- Load Position
+- Unlock All Avatars (Local)
+- Clone Avatar (Local)
+- Avatar Scale Up
+- Avatar Scale Down
+- Reset Avatar Scale
+- Sit Anywhere
+- Unlock Camera
+- World Gravity Off
+- Reveal World Triggers (Own)
+- Instant Portal (Own World)
+- Unlock All Worlds (Favorites)
+- Unlimited Favorites (Local)
+- Highlight Players (Local)
+- Invisible Overlay (Local)
+- Freeze Time (Local)
+- Set Game Speed
+- Slow Motion
+- Unlock All Emojis (Local)
+- Unlock All Gestures
+- Infinite Voice Distance (Local)
+- No Portal Drop Cost
+- Own Instance Host Pack
+- Unlock All Nameplates
+- Camera FOV Unlock
+- Photo Mode Unlock
+- No Avatar Performance Block (Local)
+- Force Show Avatars (Local)
+- Unlock All Shaders (Local)
+- Respawn Instant
+- Go To World Origin
+- Unlock All UI Pages
+- Local Mirror Always
+- Disable World Udon (Own)
+- Enable World Udon (Own)
+- Unlock All Badges (Local)
+- Max Trust (Local Display)
+- No Fall Respawn
+- Infinite Jump Height
+- Set Move Speed
+- Set Fly Speed
+- Unlock Third Person (Local)
+- Lock Avatar Height
+- Reset Tracking
+- Own World Test Pack
+- No Comfort Vignette
+- Unlock All Debug Views (Local)
 
 ## Куда жать
 
